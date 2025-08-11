@@ -1,7 +1,7 @@
 {
   "name": "nesto-proj",
   "version": "0.1.0",
-  "homepage": "https://RajendraVigno.github.io/nesto_fe",
+  "homepage": "https://RajendraVigno.github.io/nesto-admin",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
