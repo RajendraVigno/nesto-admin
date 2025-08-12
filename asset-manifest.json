@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nesto-admin/static/css/main.a5a59f5d.css",
-    "main.js": "/nesto-admin/static/js/main.9247e0fa.js",
+    "main.js": "/nesto-admin/static/js/main.eba20835.js",
     "static/media/logo.svg": "/nesto-admin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nesto-admin/index.html",
     "main.a5a59f5d.css.map": "/nesto-admin/static/css/main.a5a59f5d.css.map",
-    "main.9247e0fa.js.map": "/nesto-admin/static/js/main.9247e0fa.js.map"
+    "main.eba20835.js.map": "/nesto-admin/static/js/main.eba20835.js.map"
   },
   "entrypoints": [
     "static/css/main.a5a59f5d.css",
-    "static/js/main.9247e0fa.js"
+    "static/js/main.eba20835.js"
   ]
 }
